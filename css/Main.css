@@ -1,0 +1,360 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.Container
+{width: 1280px;
+height: 5205px;
+background-color: aqua;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+
+
+.News
+{width: 1280px;
+height: 725px;
+background: url("../images/icon_01.gif");
+}
+/*		Phan trong News*/
+		.Logo
+		{width: 400px;
+		height: 165px;
+		float: left}
+		.Menu
+		{width: 880px;
+		height: 165px;
+		float: right}
+			ul{list-style: none;}
+			ul li{padding: 70px 0px 0px 50px;float: left}
+			ul li a{text-decoration: none}
+		.TextHeader
+		{width:660px;
+		height: 140px;
+		float: right;
+		padding: 10px 0px 10px 40px}
+		.TextTitle
+		{width: 660px;
+		height: 380px;
+		float: right;
+		padding: 20px 0px 0px 40px;}
+		hr{width: 10%;
+		float: left}
+	 .btn_white {
+	 width: 200px;
+	 height: 50px;
+	background-color: aliceblue;
+    border-radius: 30px;
+ 	border: 0.5px #585858 solid;
+    color: #333;
+	padding: 15px 30px;}
+		
+		
+		
+
+
+.Searching
+{width: 100%;
+height: 140px;
+background-color: #f5f5f5;
+}
+			/*Phan trong Searching*/
+				.Textleft{
+					width: 50%;
+					height: 140px;
+					background-color: #f5f5f5;
+					float: left;}
+button{
+	width: 100px;
+	height: 40px;
+	border-radius: 100px;
+	background-color:#74FFFC;}
+			
+input{width: 300px;
+height: 30px;
+border-radius: 100px;
+border: 2px #747474 solid;}
+
+
+
+.News2
+{width: 1280px;
+height: 705px;
+background: url("../images/De-02_02.gif");
+
+}
+			.Chu
+			{width: 440px;
+			height: 410px;
+			
+			float: right;
+			padding: 130px 100px 0px 0px 
+			}
+			.Chu1
+			{width: 440px;
+			height: 50px;
+			margin-left: 30px;}
+			.Chu2
+			{width: 440px;
+			height: 45px;
+			margin-left: 30px;}
+			.Chu3
+			{width: 440px;
+			height: 85px;
+			margin-left: 30px;}
+			.Chu4
+			{width: 440px;
+			height: 75px;}
+			.Chu5
+			{width: 440px;
+			height: 35px;
+			margin-left: 30px;}
+			.Chu6
+			{width: 440px;
+			height: 85px;
+			margin-left: 30px;}
+.Picture
+{width: 1280px;
+height: 720px;
+background-color: chartreuse;}
+		.Hinh1
+		{width: 320px;
+		height: 360px;
+		float: left}
+
+
+
+.Picture2
+{width: 1280px;
+height: 745px;
+background-color: white;
+position: relative}
+				.Daudong
+				{width: 380px;
+				height: px;
+				position: absolute;
+				 top: 50px;
+				left: 400px}
+		.Hinhtrong1{
+				width: 315px;
+				height: 505px;
+				background-color: #FFFFFF;
+				position: absolute;
+				top: 150px;
+				left: 150px;
+				font-size: 10pt;}
+					.haha1
+					{width: 289px;
+					height: 367px;}
+
+		.Hinhtrong2{
+				width: 315px;
+				height: 505px;
+				background-color: #FFFFFF;
+				position: absolute;
+				top: 150px;
+				left: 450px;
+				font-size: 10pt;}
+
+		.Hinhtrong3{
+				width: 315px;
+				height: 505px;
+				background-color: #FFFFFF;
+				position: absolute;
+				top: 150px;
+				left: 750px;
+				font-size: 10pt;}
+
+
+
+
+
+
+
+
+
+
+.Text
+{width: 1280px;
+height: 275px;
+background-color: cyan;
+position: relative;
+    color: white;}
+	.Textinside1{
+    width: 60px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 105px;
+    left: 120px;
+    font-size: 50px;}
+	.Texinside2{
+    width: 190px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 118px;
+    left: 200px;
+		font-size: 15px;}
+	.Textinside3{
+    width: 60px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 105px;
+    left: 400px;
+		font-size: 50px;}
+	.Textinside4{
+    width: 190px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 118px;
+    left: 490px;
+		font-size: 15px;}
+	.Textinside5{
+    width: 60px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 105px;
+    left: 680px;
+		font-size: 50px;}
+	.Textinsde6{
+    width: 190px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 118px;
+    left: 780px;
+		font-size: 15px;}
+	.Textinside7 {
+    width: 60px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 105px;
+    left: 950px;
+    font-size: 50px;
+}
+	.Textinsde8{
+    width: 190px;
+    height: 60px;
+    background-color: cyan;
+    position: absolute;
+    top: 118px;
+    left: 1050px;
+    font-size: 15px;
+}
+
+.Picture3
+{width: 1280px;
+height: 745px;
+background-color: white;
+position: relative;}
+		.Inside1{
+		width: 380px;
+		height: px;
+		background-color: ;
+		position: absolute;
+		top: 50px;
+		left: 400px;}
+		.Inside2{
+		width: 315px;
+		height: 505px;
+		background-color: red;
+		position: absolute;
+		top: 150px;
+		left: 150px;
+		font-size: 10pt;
+		float: left;}
+		.Inside3{
+		width: 315px;
+		height: 505px;
+		background-color: #FFFFFF;
+		position: absolute;
+		top: 150px;
+		left: 450px;
+		font-size: 10pt;}
+		.Inside4{
+		width: 315px;
+		height: 505px;
+		background-color: #FFFFFF;
+		position: absolute;
+		top: 150px;
+		left: 750px;
+		font-size: 10pt;}
+.Text1
+{width: 1280px;
+height: 450px;
+background-color: lightgray;
+position: relative;}
+		.Text1inside{
+		width: 280px;
+		height: 40px;
+		background-color: lightgray;
+		position: absolute;
+		top: 122px;
+		left: 480px;
+		font-size: 10pt;}
+		.Text1inside2{
+		width: 490px;
+		height: 50px;
+		background-color: lightgray;
+		position: absolute;
+		top: 180px;
+		left: 380px;
+		font-size: 10pt;}
+
+.Icon{width: 1280px;
+ 	height: 380px;
+    background-color: white;
+    position: relative;
+    font-size: 8pt;}
+	.Icon1
+    {width: 275px;
+    height: 180px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 50px;}
+	.Icon2{
+    width: 275px;
+    height: 180px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 350px;}
+	.Icon3{
+    width: 275px;
+    height: 180px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 650px;}
+	.Icon4{
+    width: 275px;
+    height: 180px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    left: 950px;}
+.Last{
+width: 1280px;
+height: 320px;
+background-color: #1F1F1F;
+position: relative;
+font-size: 10pt;}
+		.Last1{
+		width: 120px;
+		height: 70px;
+		background-color: #1F1F1F;
+		position: absolute;
+		top: 50px;
+		left: 580px;}
+		.Last2{
+    width: 800px;
+    height: 64px;
+    background-color: #1F1F1F;
+    position: absolute;
+    top: 120px;
+    left: 345px;
+}
